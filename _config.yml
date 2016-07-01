@@ -1,7 +1,7 @@
 # Dependencies
 gems: [jekyll-paginate]
 
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
@@ -9,9 +9,10 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Hyde
+title:            1447 South Clark Street
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Chicago, IL 60605 <br>
+                   3BR 2.1ba'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
