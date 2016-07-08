@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Dearborn Park
+order: 10
 ---
 
 One of the things that drew us to the house is the Dearborn Park neighborhood.  It's a tree-lined communutiy that has only one and entrance so that it is gated off from the surrounding busy streets.  The streets are quiet and green with trees.  It feels like a suburban street right in the heart of the city.
