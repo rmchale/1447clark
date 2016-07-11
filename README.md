@@ -9,6 +9,13 @@ gem 'jekyll-paginate'
 gem 'pygments.rb'
 ```
 
+## fix
+```
+brew install ruby
+sudo gem uninstall fpm
+sudo gem install fpm
+```
+
 ## BUNDLER
 ```
 bundler install
